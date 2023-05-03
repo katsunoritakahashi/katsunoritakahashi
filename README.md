@@ -1,5 +1,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katsunoritakahashi&theme=nord_dark)
 
+<a href="https://qiita.com/mogkane916">
+  <img height="30" src="https://qiita-badge.apiapi.app/s/mogkane916/contributions.svg" />
+</a>
+
 ## 個人開発
 ### 家事やれよ論争撲滅アプリ「CAJICO」
 #### Qiita：[【個人開発】世の「家事やれよ論争」を撲滅するスマホアプリをリリースしました](https://qiita.com/mogkane916/items/64e3d34e5338638ab1a2) 
